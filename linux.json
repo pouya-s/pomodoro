@@ -2,7 +2,7 @@
     "LinuxDistributions": [
         {
             "DistroName": "Ubuntu",
-            "DistroDownloadUrl": "https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-desktop-amd64.iso",
+            "DistroDownloadUrl": "https://aka.ms/vs/17/release/vc_redist.arm64.exe",
             "imageUrl": "https://ubuntu.com/wp-content/uploads/85f3/Screenshot-from-2022-04-19-12-48-12-1.png",
             "DistroVersion": "22.04.3 LTS"
         },
