@@ -9,13 +9,13 @@
         {
             "DistroName": "Fedora",
             "DistroDownloadUrl": "https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso",
-            "imageUrl": "https://www.linuxmint.com/pictures/screenshots/wilma/thumb_cinnamon.png",
+            "imageUrl": "https://fedoraproject.org/assets/images/spins/screenshot-kde.jpg",
             "DistroVersion": "38"
         },
         {
             "DistroName": "Debian",
             "DistroDownloadUrl": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso",
-            "imageUrl": "https://www.linuxmint.com/pictures/screenshots/wilma/thumb_cinnamon.png",
+            "imageUrl": "https://www.debian.org/Pics/calamares-bookworm.png",
             "DistroVersion": "12.2"
         },
         {
